@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61b53682-c332-435d-8d40-64d41e1b57a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jk2th0MXyNd3IlBQT5Vp0oHu85" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.127.0.0.1:8000">
+    <configuration name="127.0.0.1:8000" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://127.0.0.1:8000">
+      <method v="2" />
+    </configuration>
+    <configuration name="127.0.0.1:8001" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://127.0.0.1:8001">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.127.0.0.1:8000" />
+        <item itemvalue="JavaScript Debug.127.0.0.1:8001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61b53682-c332-435d-8d40-64d41e1b57a6" name="Default Changelist" comment="" />
+      <created>1604333992902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604333992902</updated>
+      <workItem from="1604333996365" duration="4308000" />
+      <workItem from="1604341820185" duration="4877000" />
+      <workItem from="1604427131411" duration="1571000" />
+      <workItem from="1604584642964" duration="1313000" />
+      <workItem from="1604927370723" duration="922000" />
+      <workItem from="1604928396218" duration="3286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="160" width="459" height="419" key="#Web_Browsers" timestamp="1604928303567">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="450" y="160" width="459" height="419" key="#Web_Browsers/0.0.1366.742/1366.0.1360.768@0.0.1366.742" timestamp="1604928303567" />
+    <state x="388" y="175" width="583" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604929618863">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="388" y="175" width="583" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.742/1366.0.1360.768@0.0.1366.742" timestamp="1604929618863" />
+    <state width="1324" height="222" key="GridCell.Tab.0.bottom" timestamp="1604928308980">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="222" key="GridCell.Tab.0.bottom/0.0.1366.742/1366.0.1360.768@0.0.1366.742" timestamp="1604928308980" />
+    <state width="1324" height="222" key="GridCell.Tab.0.center" timestamp="1604928308980">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="222" key="GridCell.Tab.0.center/0.0.1366.742/1366.0.1360.768@0.0.1366.742" timestamp="1604928308980" />
+    <state width="1324" height="222" key="GridCell.Tab.0.left" timestamp="1604928308980">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="222" key="GridCell.Tab.0.left/0.0.1366.742/1366.0.1360.768@0.0.1366.742" timestamp="1604928308980" />
+    <state width="1324" height="222" key="GridCell.Tab.0.right" timestamp="1604928308980">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="222" key="GridCell.Tab.0.right/0.0.1366.742/1366.0.1360.768@0.0.1366.742" timestamp="1604928308980" />
+    <state width="1324" height="222" key="GridCell.Tab.1.bottom" timestamp="1604928308981">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="222" key="GridCell.Tab.1.bottom/0.0.1366.742/1366.0.1360.768@0.0.1366.742" timestamp="1604928308981" />
+    <state width="1324" height="222" key="GridCell.Tab.1.center" timestamp="1604928308981">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="222" key="GridCell.Tab.1.center/0.0.1366.742/1366.0.1360.768@0.0.1366.742" timestamp="1604928308981" />
+    <state width="1324" height="222" key="GridCell.Tab.1.left" timestamp="1604928308980">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="222" key="GridCell.Tab.1.left/0.0.1366.742/1366.0.1360.768@0.0.1366.742" timestamp="1604928308980" />
+    <state width="1324" height="222" key="GridCell.Tab.1.right" timestamp="1604928308981">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="222" key="GridCell.Tab.1.right/0.0.1366.742/1366.0.1360.768@0.0.1366.742" timestamp="1604928308981" />
+    <state width="1324" height="222" key="GridCell.Tab.2.bottom" timestamp="1604928308981">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="222" key="GridCell.Tab.2.bottom/0.0.1366.742/1366.0.1360.768@0.0.1366.742" timestamp="1604928308981" />
+    <state width="1324" height="222" key="GridCell.Tab.2.center" timestamp="1604928308981">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="222" key="GridCell.Tab.2.center/0.0.1366.742/1366.0.1360.768@0.0.1366.742" timestamp="1604928308981" />
+    <state width="1324" height="222" key="GridCell.Tab.2.left" timestamp="1604928308981">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="222" key="GridCell.Tab.2.left/0.0.1366.742/1366.0.1360.768@0.0.1366.742" timestamp="1604928308981" />
+    <state width="1324" height="222" key="GridCell.Tab.2.right" timestamp="1604928308981">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1324" height="222" key="GridCell.Tab.2.right/0.0.1366.742/1366.0.1360.768@0.0.1366.742" timestamp="1604928308981" />
+    <state x="725" y="81" width="529" height="547" key="NewPhpClassDialog" timestamp="1604337779628">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="725" y="81" width="529" height="547" key="NewPhpClassDialog/0.0.1366.742@0.0.1366.742" timestamp="1604337779628" />
+    <state x="480" y="297" width="399" height="145" key="NewPhpFileDialog" timestamp="1604335357857">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="480" y="297" width="399" height="145" key="NewPhpFileDialog/0.0.1366.742@0.0.1366.742" timestamp="1604335357857" />
+    <state x="172" y="6" key="SettingsEditor" timestamp="1604337458030">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="172" y="6" key="SettingsEditor/0.0.1366.742@0.0.1366.742" timestamp="1604337458030" />
+    <state x="345" y="163" key="run.anything.popup" timestamp="1604428139805">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="345" y="163" key="run.anything.popup/0.0.1366.742/1366.0.1360.768@0.0.1366.742" timestamp="1604428139805" />
+    <state x="345" y="163" key="run.anything.popup/0.0.1366.742@0.0.1366.742" timestamp="1604336504900" />
+    <state x="346" y="63" width="672" height="678" key="search.everywhere.popup" timestamp="1604337697282">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="346" y="63" width="672" height="678" key="search.everywhere.popup/0.0.1366.742@0.0.1366.742" timestamp="1604337697282" />
+    <state x="408" y="285" width="544" height="168" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1604345794722">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="408" y="285" width="544" height="168" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.742@0.0.1366.742" timestamp="1604345794722" />
+  </component>
+</project>
